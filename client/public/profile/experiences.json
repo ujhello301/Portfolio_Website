@@ -1,0 +1,42 @@
+{
+    "experiences": [
+        {
+            "title": "Product Associate",
+            "subtitle": "Anlage Infotech",
+            "workType": "Full-time",
+            "workDescription": [
+                "Managing a few modules of select 10x product working closely with cross‑functional teams such as engineering, design, and data science to develop and bring to market new features within specified deadlines.",
+"Maintaining PRDs of features under development throughout the product life cycle.",
+"Gathering and analyzing data to extrapolate metrics for product performance.",
+"Creating User stories and User flows for client side product modules using figma.",
+"Making Test cases and other testing documents for end‑point‑API’s as well as other complex sub systems related to intelligent candidate recommendation system.",
+"Performing Market surveys and feasibility studies to help the management decide on new additions to the product"
+            ],
+            "dateText": "05/2022 – Present"
+        },
+        {
+            "title": "Business Analyst ",
+            "subtitle": "Sciffer Anlytics",
+            "workType": "Internship",
+            "workDescription": [
+                "Made Business requirements Document for Reflexion.AI",
+                "Conducted User acceptance testing of various modules as well as tested end points of crucial api’s on postman.",
+"Made python scripts using web sockets for automated testing of User Interface for music scheduler made for a entertainment industry client"
+            ],
+            "dateText": "10/2021 – 12/2021"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "SL Consultancy Services",
+            "workType": "Freelance",
+            "workDescription": ["Underwent 3 months of training after which I was inducted in as a software developer on a workflow management project for a Accounting firm.",
+"Worked on the customer data storage and handling as well as the automated report generation module.",
+"Backend development Mainly dealt with python and JavaScript using frameworks such as Node js, django and streamlit.",
+"Frontend was made using react, HAML,HTML and CSS.",
+"Libraries such as D3.js and Charts.js amongst others were used for making dashboards related to report generation"
+                
+            ],
+            "dateText": "07/2020 – 04/2020"
+        }
+    ]
+}

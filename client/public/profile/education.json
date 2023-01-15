@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Apr 2018 - Jun 2022",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"MPSTME, NMIMS University, Mumbai",
+            "cardDetailedText": "CGPA - 8.9",
+            "icon" : {
+                "src": "images/education/nmims.png"
+            }
+           
+        },
+        {
+            "title": "Nov 2019 - Jan 2022",
+            "cardTitle": "Honours - Specialization in Internet of things, Blockchain and Cloud Computing",
+            "cardSubtitle":" NMIMS x Coursera",
+            "icon" : {
+                "src": "images/education/coursera.png"
+            }
+        }
+    ]
+}
