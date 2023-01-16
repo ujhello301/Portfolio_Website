@@ -1,3 +1,19 @@
 {
-    "projects" : [  ]
+    "projects" : [  {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Increasing User Engagement on Quora",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                
+                {
+                    "text": "View",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "Research",
+                "Product Analysis",
+                "Metric tracking"
+            ]
+        } ]
 }
