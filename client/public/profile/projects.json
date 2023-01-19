@@ -14,5 +14,20 @@
                 "Product Analysis",
                 "Metric tracking"
             ]
-        } ]
+        },
+                 {
+            "title": "User Journey for lensKart Aqua lens",
+            "bodyText": "- Designed the user journey for a user, visiting aqua lens for the first time for helping the user in selecting the right lens.",
+            "links": [
+                
+                {
+                    "text": "View",
+                    "href":"https://simplistic-period-838.notion.site/Lenskart-72a9fc44dce847bbad71534df65279a6"
+                }
+            ],
+            "tags" : [
+                "Research",
+                "Metric tracking"
+            ]
+        }]
 }
