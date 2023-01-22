@@ -1,5 +1,6 @@
 {
     "projects" : [  {
+            "image" : "images/projects/quoraicon.png",
             "title": "Increasing User Engagement on Quora",
             "bodyText": "- Case Study for improving relevant engagement metrics of Quora",
             "links": [
