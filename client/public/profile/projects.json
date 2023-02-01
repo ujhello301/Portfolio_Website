@@ -1,8 +1,8 @@
 {
-    "projects" : [ {
+    "Product Portfolio" : [ {
             "image" : "images/projects/smallcase.png",
             "title": "Smallcase Product Breakdown",
-            "bodyText": " Analysis of Smallcase Product Portfolio ",
+            "bodyText": " Analysis of Smallcase Products and business ",
             "links": [
                 
                 {
@@ -18,7 +18,7 @@
                   {
             "image" : "images/projects/quoraicon.png",
             "title": "Increasing User Engagement on Quora",
-            "bodyText": "- Case Study for improving relevant engagement metrics of Quora",
+            "bodyText": "Case Study for improving relevant engagement metrics of Quora",
             "links": [
                 
                 {
@@ -35,7 +35,7 @@
                  {
              "image": "images/projects/lenskarticon.png",
             "title": "LensKart Aqua lens",
-            "bodyText": "- Improve the experience for a user, visiting aqua lens for the first time for helping the user in selecting the right lens.",
+            "bodyText": "Improve the experience for a user, visiting aqua lens for the first time for helping the user in selecting the right lens.",
             "links": [
                 
                 {
