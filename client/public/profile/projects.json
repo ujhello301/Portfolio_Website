@@ -1,5 +1,21 @@
 {
-    "projects" : [  {
+    "projects" : [ {
+            "image" : "images/projects/smallcase.png",
+            "title": "Smallcase Product Breakdown",
+            "bodyText": " Analysis of Smallcase Product Portfolio ",
+            "links": [
+                
+                {
+                    "text": "View",
+                    "href":"https://drive.google.com/file/d/1z2AQuOfEewCxYd4GEkwq8M5ROTH_VEHw/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Research",
+                "Product Breakdown"
+            ]
+        }, 
+                  {
             "image" : "images/projects/quoraicon.png",
             "title": "Increasing User Engagement on Quora",
             "bodyText": "- Case Study for improving relevant engagement metrics of Quora",
