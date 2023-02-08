@@ -14,7 +14,22 @@
                 "Research",
                 "Product Breakdown"
             ]
-        }, 
+        }, {
+            "image" : "images/projects/Zomato-Logo-PNG.jpg",
+            "title": "Driving Subscription Growth for Zomato",
+            "bodyText": "As a PM at zomato, you have been tasked with the task of driving the growth of zomato pro subscribers using only organic channels and in-app features.",
+            "links": [
+                
+                {
+                    "text": "View",
+                    "href":"https://simplistic-period-838.notion.site/Zomato-Increasing-Subscriber-count-f7ab28f308f14db8850012f303f9152f"
+                }
+            ],
+            "tags" : [
+                "Research",
+                "Product Analysis",
+                "Metric tracking"
+            ],
                   {
             "image" : "images/projects/quoraicon.png",
             "title": "Increasing User Engagement on Quora",
